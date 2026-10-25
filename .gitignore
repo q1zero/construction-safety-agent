@@ -1,0 +1,5 @@
+__pycache__/
+session.json
+report.md
+.env
+.env.*
