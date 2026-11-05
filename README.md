@@ -1,6 +1,6 @@
 # AI 施工作业安全方案 Agent · 六阶段 Workflow
 
-戚逸霖个人架构研究与流程示例仓库。简历中的项目定位为 Architecture Study。
+Seven个人架构研究与流程示例仓库。简历中的项目定位为 Architecture Study。
 
 本仓库于 2026-10-25 整理发布；`workflow.py` 是本次新增的可运行参考实现，不代表历史生产系统、实际工地部署或已经接入模型的完整产品。
 
